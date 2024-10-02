@@ -11,3 +11,5 @@ Transfer Learning: Pretrained weights are used to initialize the model, followed
 
 
 Link to model weights: https://drive.google.com/file/d/1AimQU6I-cY9VpwTk7i0t2LuSuXCC__Bn/view?usp=drive_link
+Link to dataset 1 : https://drive.google.com/drive/folders/1lJxMgHa99C1E2grTX4aFnKkn7p42Vphv?usp=sharing
+Link to dataset 2 : https://drive.google.com/drive/folders/1zZ0N0oXkLS586e0Uq1sUIHaAj0E4KTCy?usp=sharing
