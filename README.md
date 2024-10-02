@@ -8,3 +8,6 @@ The U-Net model is used for segmentation with the following key features:
 Encoder-Decoder Architecture: The U-Net model captures context through the encoder and constructs detailed segmentation maps through the decoder.
 Skip Connections: These connections from encoder to decoder ensure that spatial details are preserved.
 Transfer Learning: Pretrained weights are used to initialize the model, followed by fine-tuning on the carotid artery dataset.
+
+
+Link to model weights: https://drive.google.com/file/d/1AimQU6I-cY9VpwTk7i0t2LuSuXCC__Bn/view?usp=drive_link
